@@ -6,9 +6,9 @@ justinmccandless.com
 
 /***** About ******/
 
-Github: 		http://github.com/justinmc/More-Less-Overflow
-Blog Post: 		http://www.justinmccandless.com
-Live Example:	
+Github: 		http://www.github.com/justinmc/More-Less-Overflow
+Blog Post: 		http://www.justinmccandless.com/blog/More+Less+Overflow%3A+Expand+and+Contract+a+Div
+Live Example:	http://www.justinmccandless.com/demos/More-Less-Overflow/index.html
 
 This project provides an easy and solid way to add expanding more/less functionality to a div with lots of text.  Any text overflowing the normal height of the div will be removed to the nearest word, and an ellipsis will be appended and a more/less button added.  If the text in your div does not exceed the height of the div, the div will look as usual.
 
