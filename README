@@ -1,0 +1,26 @@
+More Less Overflow
+Dependecy: jQuery 1.7.2 and above
+Author: Justin McCandless
+justinmccandless.com
+
+
+/***** About ******/
+
+Github: 		http://github.com/justinmc/More-Less-Overflow
+Blog Post: 		http://www.justinmccandless.com
+Live Example:	
+
+This project provides an easy and solid way to add expanding more/less functionality to a div with lots of text.  Any text overflowing the normal height of the div will be removed to the nearest word, and an ellipsis will be appended and a more/less button added.  If the text in your div does not exceed the height of the div, the div will look as usual.
+
+
+/***** Usage ******/
+
+Be sure to include the mlOverflow.js file, as well as jQuery 1.7.2 or above.
+
+Add the class "mlOverflow" to any divs you want to use.
+
+Add the class "mlOverflow_text" to the element whose height you want to expand the parent div to (usually a p tag).
+
+Optionally, add a mlOverflow_more and/or mlOverflow_less data attribute to your mlOverflow div.  These values will override the default "More" and "Less" strings to whatever you want your button to say.
+
+Check out the live example linked to above if you need to see an example, or the blog post for a more detailed description.
